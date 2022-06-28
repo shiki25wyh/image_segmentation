@@ -1,5 +1,5 @@
 # image_segmentation  
-Download the dataset from https://www.kaggle.com/datasets/laurentmih/aisegmentcom-matting-human-datasets
+Download the dataset from https://www.kaggle.com/datasets/laurentmih/aisegmentcom-matting-human-datasets  
 $ git clone https://github.com/shiki25wyh/image_segmentation.git  
 $ cd image_segmentation  
 $ mkdir params  
