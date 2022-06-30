@@ -5,6 +5,6 @@ $ cd image_segmentation
 $ mkdir params  
 $ mkdir train_image  
 $ mkdir result_image  
-$ pip install -r requirements.txt
+$ pip install -r requirements.txt  
 $ jupyter notebook  
 open u_net.ipynb and run the code
