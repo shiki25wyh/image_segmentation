@@ -7,4 +7,8 @@ $ mkdir train_image
 $ mkdir result_image  
 $ pip install -r requirements.txt  
 $ jupyter notebook  
-open u_net.ipynb and run the code
+open u_net.ipynb and run the code  
+  
+RESULT  
+![](https://github.com/shiki25wyh/image_segmentation/blob/main/sc.png) 
+
